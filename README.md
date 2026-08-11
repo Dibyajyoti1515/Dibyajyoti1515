@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm DibyaJyoti Parida 👋</h1>
 
-<h3 align="center">CSE Undergrad @ OUTR (CGPA 9.31/10) · 2nd Runner-Up @ Pravaah'26, IIT Bhubaneswar</h3>
+<h3 align="center">CSE Undergrad @ OUTR · 2nd Runner-Up @ Pravaah'26, IIT Bhubaneswar</h3>
 
 <p align="center">
 I build things that actually work — from AI pipelines to full-stack apps. Obsessed with LLMs, fintech, and open-source.
@@ -16,7 +16,7 @@ I build things that actually work — from AI pipelines to full-stack apps. Obse
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE at **Odisha University of Technology and Research (OUTR)**, Bhubaneswar — CGPA 9.31/10
+- 🎓 B.Tech CSE at **Odisha University of Technology and Research (OUTR)**, Bhubaneswar
 - 🏆 **2nd Runner-Up**, Pravaah'26 Data Science Hackathon, IIT Bhubaneswar (Team Dataflux)
 - 🧠 Focused on **LLMs, multi-agent systems, NLP pipelines**, and **full-stack development**
 - ☁️ Oracle Cloud Generative AI Professional · AI Vector Search Certified · Google 5-Day AI Agents Intensive
