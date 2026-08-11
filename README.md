@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm DibyaJyoti Parida 👋</h1>
 
-<h3 align="center">CSE Undergrad @ KIIT · Backend AI Engineering Intern @ FlyRank AI</h3>
+<h3 align="center">CSE Undergrad @ OUTR · Backend AI Engineering Intern @ FlyRank AI</h3>
 
 <p align="center">
 Building multi-agent AI systems, NLP pipelines, and full-stack products — one hackathon at a time.
