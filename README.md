@@ -16,7 +16,7 @@ Building multi-agent AI systems, NLP pipelines, and full-stack products — one 
 
 ### 🚀 About Me
 
-- 🎓 CSE Undergraduate at **KIIT, Odisha**
+- 🎓 CSE Undergraduate at **OUTR, Odisha**
 - 💼 Backend AI Engineering Intern at **FlyRank AI**
 - 🧠 Focused on **multi-agent systems**, **NLP pipelines**, and **full-stack development**
 - 🏆 Active in hackathons & competitive programming (LeetCode, HackerRank)
